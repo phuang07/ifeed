@@ -1,9 +1,15 @@
 {
-  "name": "mobile",
-  "version": "0.0.0",
+  "name": "ifeed",
+  "version": "0.1.1",
   "dependencies": {
+    "jquery": "~1.9.1",
     "modernizr": "~2.6.2",
-    "jquery": "~1.9.1"
+    "twitter-bootstrap-sass": "~2.0.3"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
 }
